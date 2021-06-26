@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-image:url("bgsparkle.jpg");
+}
+
+h1 {
+    font-family: 'Sigmar One', cursive;
+}
+
+input {
+    background-color: mediumaquamarine;
+}
+
+button {
+    background-color: orangered;
+    color: silver;
+}
